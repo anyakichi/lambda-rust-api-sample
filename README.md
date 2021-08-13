@@ -1,0 +1,1 @@
+# lambda-rust-api-sample
